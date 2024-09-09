@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 🔭 I’m currently working on: Figuring out how to debug my own life (and maybe some code)<br>👯 I’m looking to collaborate on: A secret plan to rule the world... or at least a cool open-source project<br>🤝 I’m looking for help with: My caffeine addiction and occasional coding existential crises<br>🌱 I’m currently learning: How to convince my code to behave (and maybe a new programming language)<br>💬 Ask me about: That one time I accidentally deleted production (just kidding... or am I?)<br>⚡ Fun fact: I once tried to fix a bug for 3 hours... only to realize it was a typo
 
 
