@@ -42,7 +42,7 @@ Extensive experience in 3D visualization, modeling, and rendering for product de
 - **Autodesk 3ds Max**
 - **Chaos V-Ray**
 - **Blackmagic Fusion**
-- **Blender**
+- **SideFX Houdini**
 - **Substance Painter**
 - **Photoshop**, **Illustrator**, and more
 
